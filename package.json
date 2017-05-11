@@ -1,7 +1,7 @@
 {
-  "name": "dang-thats-delicious",
-  "version": "0.0.0",
-  "private": true,
+  "name": "delicify",
+  "version": "1.0.0",
+  "private": false,
   "engines": {
     "node": ">= 7.6.0"
   },
