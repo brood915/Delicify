@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "engines": {
-    "node": ">= 7.6.0"
+    "node": ">= 7.10.0"
   },
   "scripts": {
     "prod": "node ./start.js",
