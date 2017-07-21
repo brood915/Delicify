@@ -3,3 +3,5 @@ and curate their favourite restaurants from around the world.
 
 
 Used Javascript, Node.js, expressJS, and MongoDB.
+
+Used Wes Bos's course for this project.
