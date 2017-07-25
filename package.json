@@ -5,6 +5,11 @@
   "engines": {
     "node": ">= 7.10.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brood915/Delicify.git"
+  },
+  "license": "ISC",
   "scripts": {
     "prod": "node ./start.js",
     "watch": "nodemon ./start.js --ignore public/",
